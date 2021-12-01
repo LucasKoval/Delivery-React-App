@@ -1,10 +1,11 @@
 import React from 'react'
+import Header from './components/Layout/Header'
 
 function App() {
   return (
-    <div>
-      <h2>Delivery React App</h2>
-    </div>
+    <>
+      <Header />
+    </>
   )
 }
 
